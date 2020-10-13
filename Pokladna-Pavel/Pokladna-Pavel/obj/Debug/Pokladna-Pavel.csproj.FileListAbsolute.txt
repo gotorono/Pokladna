@@ -1,0 +1,9 @@
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\bin\Debug\Pokladna-Pavel.exe.config
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\bin\Debug\Pokladna-Pavel.exe
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\bin\Debug\Pokladna-Pavel.pdb
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna-Pavel.csprojAssemblyReference.cache
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna_Pavel.Properties.Resources.resources
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna-Pavel.csproj.GenerateResource.cache
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna-Pavel.csproj.CoreCompileInputs.cache
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna-Pavel.exe
+C:\Users\goter\source\repos\Pokladna\Pokladna-Pavel\Pokladna-Pavel\obj\Debug\Pokladna-Pavel.pdb
