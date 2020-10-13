@@ -36,11 +36,11 @@ namespace Pokladna_Pavel
         {
             if(Castka > 0)
             {
-                return new ListViewItem(new string[] { IdPokladniZaznam.ToString(), Datum.ToString("dd.MM.yyyy"), Cislo.ToString(), Popis, Castka.ToString(), Zustatek.ToString(), Poznamka});
+                return new ListViewItem(new string[] { IdPokladniZaznam.ToString(), Cislo.ToString(), Datum.ToString("dd.MM.yyyy"), Popis, Castka.ToString(), Zustatek.ToString(), Poznamka});
             }
             else
             {
-                return new ListViewItem(new string[] { IdPokladniZaznam.ToString(), Datum.ToString("dd.MM.yyyy"), Cislo.ToString(), Popis, Math.Abs(Castka).ToString(), Zustatek.ToString(), Poznamka });
+                return new ListViewItem(new string[] { IdPokladniZaznam.ToString(), Cislo.ToString(), Datum.ToString("dd.MM.yyyy"), Popis, Math.Abs(Castka).ToString(), Zustatek.ToString(), Poznamka });
             }
         }
     }

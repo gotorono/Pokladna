@@ -28,15 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem("");
             this.panel1 = new System.Windows.Forms.Panel();
             this.lvData = new System.Windows.Forms.ListView();
-            this.datum = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.idDoklad = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.popis = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.datum = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.castka = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.popis = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.zustatek = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.poznamka = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cislo = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.SuspendLayout();
             // 
             // panel1
@@ -51,6 +51,7 @@
             // 
             this.lvData.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.idDoklad,
+            this.cislo,
             this.datum,
             this.popis,
             this.castka,
@@ -58,8 +59,6 @@
             this.poznamka});
             this.lvData.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lvData.HideSelection = false;
-            this.lvData.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem1});
             this.lvData.Location = new System.Drawing.Point(0, 0);
             this.lvData.Name = "lvData";
             this.lvData.Size = new System.Drawing.Size(569, 666);
@@ -67,21 +66,21 @@
             this.lvData.UseCompatibleStateImageBehavior = false;
             this.lvData.View = System.Windows.Forms.View.Details;
             // 
-            // datum
-            // 
-            this.datum.Text = "Datum";
-            // 
             // idDoklad
             // 
             this.idDoklad.Text = "Č. dokladu";
             // 
-            // popis
+            // datum
             // 
-            this.popis.Text = "Popis";
+            this.datum.Text = "Datum";
             // 
             // castka
             // 
             this.castka.Text = "Částka";
+            // 
+            // popis
+            // 
+            this.popis.Text = "Popis";
             // 
             // zustatek
             // 
@@ -90,6 +89,10 @@
             // poznamka
             // 
             this.poznamka.Text = "Poznámka";
+            // 
+            // cislo
+            // 
+            this.cislo.Text = "Číslo";
             // 
             // Form1
             // 
@@ -115,6 +118,7 @@
         private System.Windows.Forms.ColumnHeader castka;
         private System.Windows.Forms.ColumnHeader zustatek;
         private System.Windows.Forms.ColumnHeader poznamka;
+        private System.Windows.Forms.ColumnHeader cislo;
     }
 }
 
