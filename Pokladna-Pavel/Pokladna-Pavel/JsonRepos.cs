@@ -34,7 +34,9 @@ namespace Pokladna_Pavel
 
         public List<PokladniZaznam> NactiVse()
         {
-            throw new NotImplementedException();
+            List<PokladniZaznam> data;
+            data = JsonConvert.DeserializeObject<List<PokladniZaznam>>(File.ReadAllText(datovySoubor));
+            return data;
         }
 
         public PokladniZaznam NactiZaznam(int idZaznam)

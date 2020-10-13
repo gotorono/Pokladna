@@ -25,6 +25,12 @@ namespace Pokladna_Pavel
             JsonRepos jsonRepos = new JsonRepos("data.json");
             jsonRepos.vytvorTestData();
             repositar = jsonRepos;
+            pokladna = repositar.NactiVse();
+
+            foreach(var p in pokladna)
+            {
+                lvData.Items.Add(p.DoLvItem());
+            }
         }
     }
 }
