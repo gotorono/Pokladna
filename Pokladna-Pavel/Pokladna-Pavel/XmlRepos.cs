@@ -13,6 +13,11 @@ namespace Pokladna_Pavel
             throw new NotImplementedException();
         }
 
+        public List<PokladniZaznam> NactiUcetniObdobi(int rok, int mesic)
+        {
+            throw new NotImplementedException();
+        }
+
         public PokladniZaznam NactiZaznam(int idZaznam)
         {
             throw new NotImplementedException();

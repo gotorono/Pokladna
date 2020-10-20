@@ -39,6 +39,20 @@ namespace Pokladna_Pavel
             return data;
         }
 
+        public List<PokladniZaznam> NactiUcetniObdobi(int rok, int mesic)
+        {
+            List<PokladniZaznam> data = NactiVse();
+            List<PokladniZaznam> vystup = new List<PokladniZaznam>();
+            foreach(var d in data)
+            {
+                if (d.Datum.Year == rok && d.Datum.Month == mesic)
+                {
+                    vystup.Add(d);
+                }
+            }
+            return vystup;
+        }
+
         public PokladniZaznam NactiZaznam(int idZaznam)
         {
             throw new NotImplementedException();
