@@ -1,0 +1,13 @@
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\bin\Debug\Pokladna.exe.config
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\bin\Debug\Pokladna.exe
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\bin\Debug\Pokladna.pdb
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\bin\Debug\Newtonsoft.Json.xml
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.csprojAssemblyReference.cache
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.Form1.resources
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.Properties.Resources.resources
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.csproj.GenerateResource.cache
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.csproj.CoreCompileInputs.cache
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.csproj.CopyComplete
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.exe
+C:\Users\goter\Documents\GitHub\Pokladna\Pokladna\Pokladna\obj\Debug\Pokladna.pdb
